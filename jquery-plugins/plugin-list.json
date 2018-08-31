@@ -50,7 +50,7 @@
          "pluginGithubURL": "//github.com/ComputerWolf/SlickNav",
          "pluginCSSDownloadURL": "//raw.githubusercontent.com/ComputerWolf/SlickNav/master/dist/slicknav.min.css",
          "pluginJSDownloadURL": "//raw.githubusercontent.com/ComputerWolf/SlickNav/master/dist/jquery.slicknav.min.js"
-     }
+     },
      {
          "pluginTitle": "masonry",
          "pluginSubtitle": "Cascading grid layout plugin",
