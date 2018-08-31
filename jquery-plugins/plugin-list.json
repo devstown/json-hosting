@@ -57,6 +57,6 @@
          "pluginWebsiteURL": "//masonry.desandro.com/",
          "pluginGithubURL": "//github.com/desandro/masonry",
          "pluginCSSDownloadURL": "#",
-         "pluginJSDownloadURL": "https://raw.githubusercontent.com/desandro/masonry/master/dist/masonry.pkgd.min.js"
+         "pluginJSDownloadURL": "//raw.githubusercontent.com/desandro/masonry/master/dist/masonry.pkgd.min.js"
      }
  ]
