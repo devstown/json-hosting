@@ -51,4 +51,12 @@
          "pluginCSSDownloadURL": "//raw.githubusercontent.com/ComputerWolf/SlickNav/master/dist/slicknav.min.css",
          "pluginJSDownloadURL": "//raw.githubusercontent.com/ComputerWolf/SlickNav/master/dist/jquery.slicknav.min.js"
      }
+     {
+         "pluginTitle": "masonry",
+         "pluginSubtitle": "Cascading grid layout plugin",
+         "pluginWebsiteURL": "//masonry.desandro.com/",
+         "pluginGithubURL": "//github.com/desandro/masonry",
+         "pluginCSSDownloadURL": "#",
+         "pluginJSDownloadURL": "https://raw.githubusercontent.com/desandro/masonry/master/dist/masonry.pkgd.min.js"
+     }
  ]
