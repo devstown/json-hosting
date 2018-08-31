@@ -74,5 +74,13 @@
          "pluginGithubURL": "//github.com/garand/sticky",
          "pluginCSSDownloadURL": "#",
          "pluginJSDownloadURL": "//raw.githubusercontent.com/garand/sticky/master/jquery.sticky.js"
+     },
+     {
+         "pluginTitle": "typed",
+         "pluginSubtitle": "A JavaScript Typing Animation Library",
+         "pluginWebsiteURL": "//mattboldt.com/demos/typed-js/",
+         "pluginGithubURL": "//github.com/mattboldt/typed.js/",
+         "pluginCSSDownloadURL": "#",
+         "pluginJSDownloadURL": "//raw.githubusercontent.com/mattboldt/typed.js/master/lib/typed.min.js"
      }
  ]
