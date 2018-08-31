@@ -1,0 +1,54 @@
+ [{
+         "pluginTitle": "Datepicker",
+         "pluginSubtitle": "Pick date from input box",
+         "pluginWebsiteURL": "//fengyuanchen.github.io/datepicker/",
+         "pluginGithubURL": "//github.com/fengyuanchen/datepicker",
+         "pluginCSSDownloadURL": "//raw.githubusercontent.com/fengyuanchen/datepicker/master/dist/datepicker.min.css",
+         "pluginJSDownloadURL": "//raw.githubusercontent.com/fengyuanchen/datepicker/master/dist/datepicker.min.js"
+     },
+
+     {
+         "pluginTitle": "Magnific Popup",
+         "pluginSubtitle": "Image and video popup",
+         "pluginWebsiteURL": "//dimsemenov.com/plugins/magnific-popup/",
+         "pluginGithubURL": "//github.com/dimsemenov/Magnific-Popup",
+         "pluginCSSDownloadURL": "//raw.githubusercontent.com/dimsemenov/Magnific-Popup/master/dist/magnific-popup.css",
+         "pluginJSDownloadURL": "//raw.githubusercontent.com/dimsemenov/Magnific-Popup/master/dist/jquery.magnific-popup.min.js"
+     },
+
+     {
+         "pluginTitle": "jQuery Paginate",
+         "pluginSubtitle": "jQuery plugin for easy pagination",
+         "pluginWebsiteURL": "//neighbordog.github.io/jquery-paginate/",
+         "pluginGithubURL": "//github.com/neighbordog/jquery-paginate",
+         "pluginCSSDownloadURL": "//raw.githubusercontent.com/neighbordog/jquery-paginate/master/src/jquery.paginate.css",
+         "pluginJSDownloadURL": "https://raw.githubusercontent.com/neighbordog/jquery-paginate/master/src/jquery.paginate.js"
+     },
+
+     {
+         "pluginTitle": "OwlCarousel2",
+         "pluginSubtitle": "jQuery Responsive Carousel.",
+         "pluginWebsiteURL": "//owlcarousel2.github.io/OwlCarousel2/",
+         "pluginGithubURL": "//github.com/OwlCarousel2/OwlCarousel2",
+         "pluginCSSDownloadURL": "//raw.githubusercontent.com/OwlCarousel2/OwlCarousel2/develop/dist/assets/owl.carousel.min.css",
+         "pluginJSDownloadURL": "//raw.githubusercontent.com/OwlCarousel2/OwlCarousel2/develop/dist/owl.carousel.min.js"
+     },
+
+     {
+         "pluginTitle": "isotope",
+         "pluginSubtitle": "Filter & sort magical layouts",
+         "pluginWebsiteURL": "//isotope.metafizzy.co/",
+         "pluginGithubURL": "//github.com/metafizzy/isotope",
+         "pluginCSSDownloadURL": "#",
+         "pluginJSDownloadURL": "//raw.githubusercontent.com/metafizzy/isotope/master/dist/isotope.pkgd.min.js"
+     },
+
+     {
+         "pluginTitle": "SlickNav",
+         "pluginSubtitle": "Responsive Mobile Menu Plugin for jQuery",
+         "pluginWebsiteURL": "//slicknav.io/",
+         "pluginGithubURL": "//github.com/ComputerWolf/SlickNav",
+         "pluginCSSDownloadURL": "//raw.githubusercontent.com/ComputerWolf/SlickNav/master/dist/slicknav.min.css",
+         "pluginJSDownloadURL": "//raw.githubusercontent.com/ComputerWolf/SlickNav/master/dist/jquery.slicknav.min.js"
+     }
+ ]
