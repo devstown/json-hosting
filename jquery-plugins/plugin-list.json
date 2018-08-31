@@ -58,5 +58,13 @@
          "pluginGithubURL": "//github.com/desandro/masonry",
          "pluginCSSDownloadURL": "#",
          "pluginJSDownloadURL": "//raw.githubusercontent.com/desandro/masonry/master/dist/masonry.pkgd.min.js"
+     },
+     {
+         "pluginTitle": "skrollr",
+         "pluginSubtitle": "Parallex scrolling library for mobile and desktop",
+         "pluginWebsiteURL": "//prinzhorn.github.io/skrollr/",
+         "pluginGithubURL": "//github.com/Prinzhorn/skrollr",
+         "pluginCSSDownloadURL": "#",
+         "pluginJSDownloadURL": "//raw.githubusercontent.com/Prinzhorn/skrollr/master/dist/skrollr.min.js"
      }
  ]
