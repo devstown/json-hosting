@@ -12,5 +12,10 @@
          "sectionImgURL": "//i.imgur.com/rFDsT6X.png",
          "sectionTitle": "minus margin area one",
          "demoButtonURL": "//tanjimhasan.github.io/50-plus-section/src/about-section.html"
+     },
+     {
+         "sectionImgURL": "//i.imgur.com/bBqpaqO.png",
+         "sectionTitle": "use of isotope plugin",
+         "demoButtonURL": "//tanjimhasan.github.io/50-plus-section/src/useof-isotop-plugin.html"
      }
  ]
