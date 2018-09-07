@@ -98,5 +98,13 @@
          "pluginGithubURL": "//github.com/hilios/jQuery.countdown",
          "pluginCSSDownloadURL": "#",
          "pluginJSDownloadURL": "raw.githubusercontent.com/hilios/jQuery.countdown/master/dist/jquery.countdown.min.js"
+     },
+     {
+         "pluginTitle": "barfiller",
+         "pluginSubtitle": "A simple jQuery plugin that gives you percentage-based animated bar filling",
+         "pluginWebsiteURL": "//9bitstudios.github.io/barfiller/",
+         "pluginGithubURL": "//github.com/9bitStudios/barfiller/",
+         "pluginCSSDownloadURL": "//raw.githubusercontent.com/9bitStudios/barfiller/master/css/style.css",
+         "pluginJSDownloadURL": "//raw.githubusercontent.com/9bitStudios/barfiller/master/js/jquery.barfiller.js"
      }
  ]
