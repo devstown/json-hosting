@@ -22,5 +22,15 @@
          "sectionImgURL": "//imgur.com/qHlpgco",
          "sectionTitle": "Form Section Two",
          "demoButtonURL": "//tanjimhasan.github.io/50-plus-section/src/form-section-two.html"
+     },
+     {
+         "sectionImgURL": "//imgur.com/SxO9rJd",
+         "sectionTitle": "Portfolio Section Two",
+         "demoButtonURL": "//tanjimhasan.github.io/50-plus-section/src/useof-isotope-two.html"
+     },
+     {
+         "sectionImgURL": "//imgur.com/zU7XVQj",
+         "sectionTitle": "Form Section Three",
+         "demoButtonURL": "//tanjimhasan.github.io/50-plus-section/src/form-section-three.html"
      }
  ]
