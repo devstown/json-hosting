@@ -42,5 +42,20 @@
          "sectionImgURL": "//i.imgur.com/0Mm5bni.png",
          "sectionTitle": "Service Section Three",
          "demoButtonURL": "//tanjimhasan.github.io/section-collection/service-sections/service-section-three.html"
+     },
+     {
+         "sectionImgURL": "//i.imgur.com/B8tgXrx.png",
+         "sectionTitle": "Pricing Table One",
+         "demoButtonURL": "//tanjimhasan.github.io/50-plus-section/src/pricing-section-one.html"
+     },
+     {
+         "sectionImgURL": "//i.imgur.com/d4OISFo.png",
+         "sectionTitle": "Service Section Six",
+         "demoButtonURL": "//tanjimhasan.github.io/section-collection/service-sections/service-section-six.html"
+     },
+     {
+         "sectionImgURL": "//i.imgur.com/X8NICQV.png",
+         "sectionTitle": "Pricing Table Three",
+         "demoButtonURL": "//tanjimhasan.github.io/50-plus-section/src/pricing-section-three.html"
      }
  ]
