@@ -15,7 +15,12 @@
      },
      {
          "sectionImgURL": "//i.imgur.com/bBqpaqO.png",
-         "sectionTitle": "use of isotope plugin",
+         "sectionTitle": "Portfolio Section One",
          "demoButtonURL": "//tanjimhasan.github.io/50-plus-section/src/useof-isotop-plugin.html"
+     },
+     {
+         "sectionImgURL": "//imgur.com/qHlpgco",
+         "sectionTitle": "Form Section Two",
+         "demoButtonURL": "//tanjimhasan.github.io/50-plus-section/src/form-section-two.html"
      }
  ]
