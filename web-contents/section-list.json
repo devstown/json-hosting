@@ -32,5 +32,15 @@
          "sectionImgURL": "//imgur.com/zU7XVQj",
          "sectionTitle": "Form Section Three",
          "demoButtonURL": "//tanjimhasan.github.io/50-plus-section/src/form-section-three.html"
+     },
+     {
+         "sectionImgURL": "//imgur.com/GObxMfA",
+         "sectionTitle": "Service Section Five",
+         "demoButtonURL": "//tanjimhasan.github.io/section-collection/service-sections/service-section-five.html"
+     },
+     {
+         "sectionImgURL": "//imgur.com/0Mm5bni",
+         "sectionTitle": "Service Section Three",
+         "demoButtonURL": "//tanjimhasan.github.io/section-collection/service-sections/service-section-three.html"
      }
  ]
